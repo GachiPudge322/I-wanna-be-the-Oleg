@@ -1,6 +1,6 @@
 # I-wanna-be-the-Oleg
 I wanna be the Boshy unity copy.
-99% of the Code written by ChatGPT
+99% of the code was written by ChatGPT
 <img width="2560" height="1440" alt="I_wanna_be_the_Oleg_ClNaD3WW1X" src="https://github.com/user-attachments/assets/a15637e3-50b4-40eb-91b2-23379628f9a9" />
 Controls
 wasd and arrows to move,
